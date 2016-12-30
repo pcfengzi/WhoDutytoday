@@ -1,0 +1,10 @@
+c:\users\superadmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\bin\Debug\CleanConsoleApplication.exe.config
+c:\users\superadmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\bin\Debug\CleanConsoleApplication.exe
+c:\users\superadmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\bin\Debug\CleanConsoleApplication.pdb
+c:\users\superadmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\obj\Debug\CleanConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\superadmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\obj\Debug\CleanConsoleApplication.exe
+c:\users\superadmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\obj\Debug\CleanConsoleApplication.pdb
+C:\Users\SuperAdmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\bin\Debug\CleanConsoleApplication.exe.manifest
+C:\Users\SuperAdmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\bin\Debug\CleanConsoleApplication.application
+C:\Users\SuperAdmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\obj\Debug\CleanConsoleApplication.exe.manifest
+C:\Users\SuperAdmin\documents\visual studio 2015\Projects\CleanConsoleApplication\CleanConsoleApplication\obj\Debug\CleanConsoleApplication.application
